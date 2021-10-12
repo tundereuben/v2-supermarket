@@ -1,0 +1,14 @@
+.category {
+  margin: 20px 0;
+  padding: 20px 10px;
+  background: #eee;
+}
+
+.navbar {
+  border-bottom: solid 1px #198754;
+  color: #198754;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #198754;
+}
