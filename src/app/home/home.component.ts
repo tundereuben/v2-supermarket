@@ -28,6 +28,16 @@ export class HomeComponent implements OnInit {
           img: '/assets/images/spices.jpeg',
           url: '/herbs/spices'
         },
+        {
+          name: 'culinary',
+          img: '/assets/images/culinary-herbs.jpeg',
+          url: '/herbs/culinary'
+        },
+        {
+          name: 'medicinal',
+          img: '/assets/images/medicinal-herbs.jpeg',
+          url: '/herbs/medicinal'
+        },
       ]
     },
     {
